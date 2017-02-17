@@ -4,7 +4,8 @@ $(document).ready(function() {
       <div class='col-md-3 col-xs-12'>\
           <div class='hover-text'>\
             <a href=" + works[i].URL + " class='work-img'>\
-            <span class='info'><p class='proj-title'>Title:</p> " + works[i].title + " </span>\
+            <div class='overlay'><span class='info'><p class='proj-title'>Title:</p> " + works[i].title + " </span></div>\
+            \
               <img class='img-responsive' src='" + works[i].pic + "'>\
             </a>\
           </div>\
