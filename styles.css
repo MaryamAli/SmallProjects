@@ -1,0 +1,72 @@
+body {
+  background-color: #FCFCFC;
+  position: relative;  
+  padding-top: 3.6em;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+h3{
+  text-align: center;
+}
+.githubLink{
+  right: 0;
+  top: 250px;
+  height: auto;
+  width: 100px;
+  padding-bottom: 5px;
+  /*padding-left: 0.5em;*/
+  position: fixed;
+  z-index: 9999;
+  display:block;
+  background-color: #FFE69A;
+  transform: rotate(270deg);
+  transform-origin: right bottom 0;
+  text-align: center;
+  font-family: Futura;;
+}
+
+.container .anchor {
+  margin-left: -.938em;
+  margin-right: -.938em;
+}
+
+.anchor {
+  padding-top: 3.125em;
+}
+
+.hover-text {
+  margin: 5%;
+  position: relative;
+}
+
+.work-img {
+  display: block; 
+  margin: auto; 
+  max-width: 200px;
+  position: relative; 
+}
+
+.info {
+  position: absolute; 
+  top: 15%; 
+  left: 22%;
+  color: #000;
+  font-family: Futura;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.5em;
+  line-height: 1.6;
+  display: none;
+}
+
+.proj-title {
+  font-weight: 100;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #23527C;
+}
