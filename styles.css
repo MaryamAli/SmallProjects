@@ -25,11 +25,15 @@ h3{
   position: fixed;
   z-index: 9999;
   display:block;
-  background-color: #FFE69A;
+  background-color: #499A91;
   transform: rotate(270deg);
   transform-origin: right bottom 0;
   text-align: center;
   font-family: Futura;;
+}
+
+.fa-github{
+  color: white;
 }
 
 .container .anchor {
