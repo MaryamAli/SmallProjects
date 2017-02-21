@@ -1,7 +1,7 @@
 var works = [
   {
     title: "Mapping Data Keys (press the keys)",
-    pic: "./img/Work/dinosaur.svg",
+    pic: "./img/Work/trex.svg",
     URL: "http://dinodata.surge.sh/" 
 
   },
@@ -21,36 +21,36 @@ var works = [
   },
 
   {
-    title: "Fourth Project",
-    pic: "./img/Work/laptop.svg",
+    title: "Coming Soon",
+    pic: "./img/Work/idea.svg",
     URL: "https://placekitten.com/" 
 
   },
 
   {
-    title: "Fifth Project",
-    pic: "./img/Work/monitor.svg",
+    title: "Coming Soon",
+    pic: "./img/Work/idea.svg",
     URL: "https://placekitten.com/" 
 
   },
 
   {
-    title: "Sixth Project",
-    pic: "./img/Work/smartwatch.svg",
+    title: "Coming Soon",
+    pic: "./img/Work/idea.svg",
     URL: "https://placekitten.com/" 
 
   },
 
   {
-    title: "Seventh Project",
-    pic: "./img/Work/tablet.svg",
+    title: "Coming Soon",
+    pic: "./img/Work/idea.svg",
     URL: "https://placekitten.com/" 
 
   },
 
   {
-    title: "Eight Project",
-    pic: "./img/Work/video-player.svg",
+    title: "Coming Soon",
+    pic: "./img/Work/idea.svg",
     URL: "https://placekitten.com/" 
 
   }

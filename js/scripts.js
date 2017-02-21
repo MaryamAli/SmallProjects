@@ -14,8 +14,8 @@ $(document).ready(function() {
     var images = $("#work-row img");
 
     if(i%2 === 0){
-      //make border blue
-      $(images[i]).css("border", "2px solid #0284F0");
+      //make border green
+      $(images[i]).css("border", "2px solid #499A91");
 
     } else {
       //make border grey
